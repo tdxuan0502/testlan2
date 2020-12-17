@@ -39,6 +39,7 @@ public class TestSapXepMang {
 		bubbleSort(M);
 		System.out.println("Mảng sau khi sắp xếp");
 		xuatMang(M);
+		System.out.println("hello wordl ");
 	}
 
 }
